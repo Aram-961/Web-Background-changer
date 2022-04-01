@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+/* div {
+    display: flex;
+} */
+button {
+    /* display: flex;
+    flex-direction: column; */
+    margin-left: 80rem;
+    color: #ffffff;
+    background-color: brown;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+@media (max-width: 480px){
+    button {
+        background-color: aqua;
+        margin: auto;
+    }
+}
